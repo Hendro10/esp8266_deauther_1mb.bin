@@ -1,4 +1,4 @@
-# nodemcu-release-12-modules-2023-07-05-06-49-08-integer.bin
+# esp8266_deauther_1mb.bin
 Meracik Binary Sendiri untuk di Flash ke ESP  Yang dimaksud dengan meracik binary sendiri adalah kita melakukan pemilihan modul-modul yang kita perlukan saja untuk di-flash ke ESP. Hal ini diperlukan karena alasan berikut: Keterbatasan memori ESP Tidak semua modul diperlukan  Di sini kita tidak perlu melakukan compile source code sendiri, , tapi hanya melakukan centang modul yang dibutuhkan. Cukup mudah, kita cukup melakukannya di internet.
 
 18.1 Mulai Meracik
